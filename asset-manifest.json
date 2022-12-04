@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.47d0b917.css",
+    "main.js": "./static/js/main.54e28f67.js",
+    "static/media/productDesktop.jpg": "./static/media/productDesktop.c96d43af17111fe78e96.jpg",
+    "static/media/image-product-mobile.jpg": "./static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
+    "index.html": "./index.html",
+    "main.47d0b917.css.map": "./static/css/main.47d0b917.css.map",
+    "main.54e28f67.js.map": "./static/js/main.54e28f67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47d0b917.css",
+    "static/js/main.54e28f67.js"
+  ]
+}
